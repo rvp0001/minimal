@@ -1,6 +1,14 @@
-title: Minimal theme
+title: <p align="center">Rhishikesh </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+description: Test Profile.
+
+theme: jekyll-theme-minimal
+<p align="center">
+<a href="#" >Resume </a>
+<br>
+This is for test purpose.
+
+
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
